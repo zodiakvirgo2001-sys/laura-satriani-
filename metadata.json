@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Laura Satriani — Statistika & Pemetaan QGIS",
+  "description": "Portofolio web interaktif Laura Satriani, Sarjana Statistika dengan pengalaman 3+ tahun di BPS Kabupaten Agam, pemetaan wilayah kerja statistik QGIS, validasi data, dan sertifikasi Petugas K3 Konstruksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
